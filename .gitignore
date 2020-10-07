@@ -123,5 +123,4 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
-v1_docs/v1_diagram.png
-v1_docs/problem_decomposition.png
+*.png
