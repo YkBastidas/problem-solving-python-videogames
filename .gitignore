@@ -123,4 +123,8 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# Custom local files
+*.docx
 *.png
+course_pre_made_game/
